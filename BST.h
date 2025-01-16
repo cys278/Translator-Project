@@ -10,17 +10,14 @@
  * Author: Chowdhury Yasir
  * Date of last modification: March. 15 2024
  */
-
 #ifndef BST_H
 #define BST_H
-
 #include "BSTNode.h"
 #include "ElementAlreadyExistsException.h"
 #include "ElementDoesNotExistException.h"
 #include "EmptyDataCollectionException.h"
 #include "UnableToInsertException.h"
 #include "WordPair.h"
-
 class BST
 {
 
